@@ -50,5 +50,5 @@ A responsive PHP/MySQL e-commerce web app for browsing, searching, and purchasin
 - phpMyAdmin for DB management
 - XAMPP/LAMP as local server
 
----
+
 
