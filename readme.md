@@ -1,7 +1,7 @@
 # Jeel's Computer Store
 
-Name: Jeel Tikiwala
-Student ID: 239659420
+- Name: Jeel Tikiwala
+- Student ID: 239659420
 
 A responsive PHP/MySQL e-commerce web app for browsing, searching, and purchasing computer products. Includes user and admin accounts, cart, checkout, product management, user management, reviews, and more.
 
