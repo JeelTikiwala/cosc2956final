@@ -1,0 +1,23 @@
+{
+  "name": "cosc2956final",
+  "version": "1.0.0",
+  "description": "- Name: Jeel Tikiwala - Student ID: 239659420",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeelTikiwala/cosc2956final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeelTikiwala/cosc2956final/issues"
+  },
+  "homepage": "https://github.com/JeelTikiwala/cosc2956final#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "sass": "^1.89.2"
+  }
+}

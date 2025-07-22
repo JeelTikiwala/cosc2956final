@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <title>Jeel's Computer Store</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="/cosc2956final/assets/bootstrap.min.css">
+    <link rel="stylesheet" href="/cosc2956final/assets/style.css">
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
