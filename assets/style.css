@@ -1,0 +1,5 @@
+body {
+  background: #f6f6f6;
+}
+.card { min-height: 360px; }
+footer { position: fixed; left: 0; bottom: 0; width: 100%; }
