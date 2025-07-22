@@ -52,27 +52,3 @@ A responsive PHP/MySQL e-commerce web app for browsing, searching, and purchasin
 
 ---
 
-## Folder Structure
-/cosc2956final/
-├── admin/
-│ ├── index.php
-│ ├── users.php
-│ ├── products.php
-│ └── orders.php
-├── assets/
-│ └── style.css
-├── includes/
-│ ├── db.php
-│ ├── header.php
-│ └── footer.php
-├── cart.php
-├── checkout.php
-├── index.php
-├── login.php
-├── logout.php
-├── orders.php
-├── product.php
-├── products.php
-├── register.php
-├── README.md
-├── images.md
